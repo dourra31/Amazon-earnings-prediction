@@ -1,0 +1,1 @@
+This is a simple machine learning project using logistic regression to predict whether Amazon’s (AMZN) stock price will go up or down following earnings reports. It’s built using a small custom dataset of the last 9 earnings events, each represented by two numeric features per event.
